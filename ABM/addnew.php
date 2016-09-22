@@ -1,7 +1,7 @@
 <?php
 include 'core/init.php';
 
-
+<!-- test -->
 
 
 if(isset($_POST['submit'])) {
